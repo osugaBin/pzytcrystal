@@ -1,0 +1,20 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "设计数据库和API架构",
+        "details": "1. 设计数据库表结构（users、predictions、payments、crystals）\n2. 规划API接口设计\n3. 确定技术栈架构",
+        "status": "completed",
+        "priority": "high"
+      },
+      "2": {
+        "id": "2",
+        "content": "开发全栈PZYT水晶疗愈网站",
+        "details": "1. 开发前端React应用（首页、注册登录、运势计算、结果展示、付费页面、个人中心）\n2. 实现八字风水运势计算引擎\n3. 集成SiliconFlow API开发PZYT水晶疗愈推荐系统\n4. 实现支付宝支付功能（5元购买2次预测机会）\n5. 开发后端API（Node.js/Express或Python）\n6. 确保响应式设计和用户体验优化\n7. 统一使用PZYT品牌标识\n8. 准备GitHub发布和Cloudflare部署配置",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}
