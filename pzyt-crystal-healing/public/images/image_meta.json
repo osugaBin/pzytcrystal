@@ -1,0 +1,626 @@
+[
+  {
+    "query": "白水晶图片，用于水晶展示",
+    "image_info": {
+      "url": "https://ae01.alicdn.com/kf/Hc85e97ec05fd4082a331a576fe11be3a1.jpg",
+      "file_path": "/workspace/imgs/clear_quartz_crystal_cluster_hand_display.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 68776,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9338769708665985
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 80.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image is highly relevant, perfectly matching the search query for 'clear quartz crystal white' and the prompt for a 'white crystal picture for crystal display'. The clarity is good, with the main subject in clear focus. There are no watermarks. The overall quality is strong due to good lighting, composition, and presentation, making it very suitable for display, although the hand holding the crystal shows some dust.",
+      "file_name": "clear_quartz_crystal_cluster_hand_display.jpg",
+      "caption": "A close-up photograph capturing a person's hand holding a stunning cluster of natural clear quartz crystals. The translucent white crystals feature multiple well-defined points, showcasing their raw beauty and clarity. The background, softly blurred, hints at an abundance of similar crystalline formations, suggesting a natural environment or collection display. This image is excellent for showcasing the visual appeal of clear quartz.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "白水晶图片，用于水晶展示",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/514eDTy9tWL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/natural_clear_quartz_crystal_cluster_white_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 24709,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9065056560013408
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a clear quartz crystal cluster on a clean white background. It is sharp, well-lit, and free of watermarks, making it highly suitable for crystal display purposes.",
+      "file_name": "natural_clear_quartz_crystal_cluster_white_background.jpg",
+      "caption": "A pristine natural clear quartz crystal cluster, showcasing multiple translucent points and a raw crystalline base. The specimen is expertly photographed against a bright white background with a subtle reflection, highlighting its clarity and natural formation, ideal for display or e-commerce.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "白水晶图片，用于水晶展示",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61LDJg3+VxL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/natural-rough-white-clear-quartz-crystals-in-hand.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 36865,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9078217787041258
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query 'clear quartz crystal white' and the prompt '白水晶图片，用于水晶展示' (white crystal picture, for crystal display). It features clear/white quartz crystals held in a hand, displayed cleanly against a white background. The clarity is excellent, and there are no watermarks, making it a high-quality professional image ideal for crystal showcasing.",
+      "file_name": "natural-rough-white-clear-quartz-crystals-in-hand.jpg",
+      "caption": "A close-up photograph of a hand gently holding several natural, rough, and unpolished white to clear quartz crystal chunks. The translucent stones, varying in size and shape, are displayed against a clean, bright white background, with additional blurred quartz pieces in the background to enhance the sense of abundance. This image effectively highlights the raw beauty and crystalline structure of the natural quartz.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "白水晶图片，用于水晶展示",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71nwPypK04L._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/natural_raw_clear_white_quartz_crystals.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 76689,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9120482103657125
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a pile of clear, natural quartz crystals on a dark background. The clarity is excellent, allowing for clear visibility of the crystal's texture and translucence. There are no watermarks, and the overall composition and lighting are professional and suitable for crystal display.",
+      "file_name": "natural_raw_clear_white_quartz_crystals.jpg",
+      "caption": "A top-down view of a collection of raw, unpolished clear quartz crystals, varying in size and irregular shape, showcasing their translucent to opaque white appearance. The crystals are spread naturally on a dark, textured surface, emphasizing their natural beauty and making them ideal for display.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "白水晶图片，用于水晶展示",
+    "image_info": {
+      "url": "https://crystalswholesaleusa.com/cdn/shop/products/clear-quartz-white-crystal-point-tower-188910.jpg?v=1653293934&width=1214",
+      "file_path": "/workspace/imgs/three_natural_clear_quartz_crystal_points.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 98758,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9268643777199452
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant to the search query 'clear quartz crystal white' and the prompt, as it clearly depicts three clear quartz crystal points with natural white inclusions. The clarity is excellent, allowing for a good view of the crystals' details. There are no watermarks. The overall composition and lighting are professional, making it suitable for crystal display purposes.",
+      "file_name": "three_natural_clear_quartz_crystal_points.jpg",
+      "caption": "A close-up view of three natural clear quartz crystal points, each with unique internal white clouding and inclusions, standing upright against a dark, diffused background. The transparent and prismatic facets of the crystals catch the light, highlighting their geological beauty and structure.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "黄水晶图片，用于财运推荐",
+    "image_info": {
+      "url": "http://rockparadise.com/cdn/shop/articles/80e244f17448fc6d6f7403b5aaff5794.jpg?v=1618887384",
+      "file_path": "/workspace/imgs/golden-citrine-crystal-cluster.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 173021,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9339005463943173
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query 'golden citrine crystal yellow' and the prompt '黄水晶图片，用于财运推荐' (Citrine crystal image, recommended for wealth/fortune). It features a clear, vibrant close-up of a golden citrine crystal cluster. The clarity is excellent with a sharp focus on the main crystal, and there are no watermarks. The composition and lighting are professional, showcasing the beauty and translucency of the crystal beautifully.",
+      "file_name": "golden-citrine-crystal-cluster.jpg",
+      "caption": "A stunning close-up macro photograph of a golden citrine crystal cluster, showcasing its natural translucent facets and vibrant yellow-orange hues. The shallow depth of field highlights the sharp points of the prominent crystals, creating a captivating and luminous display of this natural gemstone, often associated with wealth and positive energy.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "黄水晶图片，用于财运推荐",
+    "image_info": {
+      "url": "https://www.diamondrocks.co.uk/uploads/2018/11/Citrine-stone-solo.jpg",
+      "file_path": "/workspace/imgs/golden_yellow_citrine_crystal_gemstone_wealth.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 156698,
+      "width": 1280,
+      "height": 888,
+      "total_pixels": 1136640,
+      "basic_score": 0.9358028210857996
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a vibrant yellow, faceted gemstone that strongly resembles citrine. Its association with 'yellow crystal' for 'wealth recommendation' is culturally relevant. The clarity is excellent, showcasing intricate facets and brilliance. There are no watermarks, and the overall composition, lighting, and isolation against a white background demonstrate high professional quality.",
+      "file_name": "golden_yellow_citrine_crystal_gemstone_wealth.jpg",
+      "caption": "A close-up, top-down studio shot of a brilliant, oval-cut yellow gemstone, likely a golden citrine crystal, isolated against a pure white background. The stone's multiple facets brilliantly refract light, creating captivating reflections and deep, rich yellow hues. This vibrant yellow crystal is often associated with prosperity, abundance, and good fortune, making it ideal for themes related to wealth and success.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "黄水晶图片，用于财运推荐",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/81zqjlHYhFL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/rough_golden_citrine_crystals_wealth_luck.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 59335,
+      "width": 894,
+      "height": 641,
+      "total_pixels": 573054,
+      "basic_score": 0.8706238034314637
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query 'golden citrine crystal yellow' and the prompt '黄水晶图片，用于财运推荐'. The crystals are clearly yellow-golden and appear to be rough citrine, which is commonly associated with wealth (财运). The image is sharp, well-lit, and professionally composed on a clean white background, with no watermarks. This makes it highly suitable for the intended purpose.",
+      "file_name": "rough_golden_citrine_crystals_wealth_luck.jpg",
+      "caption": "A top-down view of a pile of raw, rough golden citrine crystals, displaying various shades of yellow and light orange, set against a pristine white background. The translucent stones are unpolished, showcasing their natural, unrefined beauty and irregular shapes, commonly associated with attracting wealth and prosperity.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "黄水晶图片，用于财运推荐",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/813+cUEc97L._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/golden_citrine_crystals_tumbled_wealth.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 100341,
+      "width": 894,
+      "height": 714,
+      "total_pixels": 638316,
+      "basic_score": 0.8890892774323462
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query 'golden citrine crystal yellow' and the prompt's intent for wealth recommendation. The crystals are clearly identifiable as citrine, exhibiting beautiful golden and yellow tones. The image is exceptionally clear, sharp, and well-lit, with no watermarks or distractions, making it a high-quality visual representation of citrine for its associated properties.",
+      "file_name": "golden_citrine_crystals_tumbled_wealth.jpg",
+      "caption": "A vibrant close-up photograph of a large pile of small, tumbled citrine crystals, displaying a beautiful range of golden and yellow hues. The translucent stones, varying in size and shape, are scattered against a clean white background, highlighting their natural sparkle and clarity. Citrine is widely recognized as a crystal for attracting wealth, abundance, and success.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "粉水晶图片，用于水晶推荐",
+    "image_info": {
+      "url": "https://i.ebayimg.com/images/g/h0wAAOSwTC5fk5m1/s-l1200.jpg",
+      "file_path": "/workspace/imgs/raw_rose_quartz_pink_crystals_in_hands.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 192086,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9356165695271135
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query 'rose quartz pink crystal' and the prompt for crystal recommendation. The crystals are clearly rose quartz, well-lit, and sharply in focus. The hands holding them provide a good sense of scale and presentation. There are no watermarks. The background is softly blurred, keeping the focus on the crystals while suggesting a larger inventory.",
+      "file_name": "raw_rose_quartz_pink_crystals_in_hands.jpg",
+      "caption": "A close-up shot of two cupped hands holding a generous pile of beautiful, raw rose quartz crystals. The translucent, pale pink stones vary in size and shape, showcasing their natural, unpolished form and delicate hue. The background is softly blurred, hinting at a larger collection or storage of similar crystals, emphasizing the abundance and natural beauty of the rose quartz, making it ideal for crystal recommendations and enthusiasts.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "粉水晶图片，用于水晶推荐",
+    "image_info": {
+      "url": "https://i.ebayimg.com/images/g/p24AAOSwwjhfycvY/s-l1200.jpg",
+      "file_path": "/workspace/imgs/heart_rose_quartz_crystals_hand.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 87211,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.925723249078579
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly displaying multiple rose quartz pink crystals. The clarity is very good, showcasing the material's translucency and color. There are no watermarks. The composition is appealing, with a hand holding the heart-shaped stones, providing context and scale. Lighting is natural and highlights the crystals well. It is highly suitable for crystal recommendations.",
+      "file_name": "heart_rose_quartz_crystals_hand.jpg",
+      "caption": "A close-up view of a hand gently holding four polished, heart-shaped rose quartz crystals, showcasing their soft pink hues and natural translucency. The background appears to be outdoors with earthy tones, complementing the natural beauty of the stones.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "粉水晶图片，用于水晶推荐",
+    "image_info": {
+      "url": "https://energymuse.com/cdn/shop/files/GiantRawRoseQuartz_720x.jpg?v=1706234453",
+      "file_path": "/workspace/imgs/large_rose_quartz_crystal_blue_sky.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 104018,
+      "width": 720,
+      "height": 720,
+      "total_pixels": 518400,
+      "basic_score": 0.8618211512931491
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is exceptionally relevant to 'rose quartz pink crystal' and the prompt's request for crystal recommendations. It exhibits excellent clarity, vibrant colors, and a clean presentation with no watermarks. The composition, featuring the crystal held against a clear blue sky, is aesthetically pleasing and professional.",
+      "file_name": "large_rose_quartz_crystal_blue_sky.jpg",
+      "caption": "A vibrant close-up shot of a large, rough-hewn chunk of natural rose quartz, showcasing its translucent pink hues and raw texture. The crystal is held aloft by two hands, visible from the wrist down, against a brilliant, clear blue sky. One hand wears a dark red long-sleeved top and a beaded bracelet, adding a human element and scale. The composition emphasizes the beauty and size of the crystal, bathed in natural light.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "粉水晶图片，用于水晶推荐",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61bCntj+mqL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/natural_raw_rose_quartz_pink_crystal.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 86685,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9130875255754441
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query, clearly depicting a rose quartz pink crystal. It has excellent clarity and is well-focused on the subject, with no watermarks. The composition and lighting are professional, making the crystal stand out beautifully against the blurred background.",
+      "file_name": "natural_raw_rose_quartz_pink_crystal.jpg",
+      "caption": "A close-up, high-quality photograph of a large, rough piece of natural rose quartz, showcasing its translucent rosy pink color and raw, unpolished texture. The crystal is placed on a dark, out-of-focus background, possibly a woven mat, highlighting its beauty and form. Ideal for crystal recommendation or display purposes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "粉水晶图片，用于水晶推荐",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61uyAH13e-L._UF1000,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/natural_pink_rose_quartz_crystals_on_black.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 92475,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9262449501171447
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting natural pink rose quartz crystals. The clarity is good, allowing for clear observation of the crystal textures. There are no watermarks. The composition with the crystals on a dark background is professional and visually appealing, making it highly suitable for crystal recommendations.",
+      "file_name": "natural_pink_rose_quartz_crystals_on_black.jpg",
+      "caption": "A close-up, top-down view of multiple rough, raw pieces of natural pink rose quartz crystals, showcasing their characteristic translucent quality and unpolished textures. The crystals are artfully arranged against a dark, reflective black background, highlighting their soft pink hues and organic shapes. A subtle, blurry element of light-colored pampas grass or similar soft material is visible in the top left corner, adding a touch of styling.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "风水八卦图标，用于运势分析",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71hWMcYkVsL.jpg",
+      "file_path": "/workspace/imgs/golden_feng_shui_bagua_symbol_yin_yang.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 154233,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9321721539347393
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly depicting a golden Feng Shui Bagua symbol with a central Yin-Yang. It offers excellent clarity, is free of watermarks, and features professional composition on a clean white background, making it highly suitable for the stated purpose.",
+      "file_name": "golden_feng_shui_bagua_symbol_yin_yang.jpg",
+      "caption": "A detailed, top-down shot of a golden octagonal Feng Shui Bagua symbol. The center features a prominent black and gold Yin-Yang symbol, surrounded by a ring of Chinese zodiac animal signs and characters. The outer ring displays the eight trigrams (Bagua) in black, red, green, and blue against the rich gold background. This traditional Chinese artifact is commonly used in Feng Shui practices for energy balancing, protection, and fortune analysis.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "风水八卦图标，用于运势分析",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71VHVCUGzqL._UF1000,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/golden_feng_shui_bagua_symbol_compass.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 143623,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.931180187719081
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to both the 'feng shui bagua symbol golden' search query and the Chinese prompt for a Feng Shui Bagua icon used for fortune analysis. It clearly depicts a golden-framed octagonal Bagua, with excellent clarity that highlights the intricate details and Chinese characters. There are no watermarks, and the overall composition and professional quality are outstanding, making it highly suitable for diverse uses.",
+      "file_name": "golden_feng_shui_bagua_symbol_compass.jpg",
+      "caption": "A high-quality studio shot of a traditional golden Feng Shui Bagua symbol. The octagonal mirror features a shiny golden frame, enclosing a red background with a circular black and gold compass-like design. This intricate design includes various Chinese characters, trigrams, and symbols arranged in concentric rings around a central empty circular opening. The object is isolated on a clean white background, showcasing its detailed craftsmanship and symbolic significance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "风水八卦图标，用于运势分析",
+    "image_info": {
+      "url": "https://cdn11.bigcommerce.com/s-orrz5b/images/stencil/1280x1280/products/1235/3706/100_8993__96934.1443994439.jpg?c=2",
+      "file_path": "/workspace/imgs/golden_feng_shui_bagua_yin_yang_symbol.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 397603,
+      "width": 1280,
+      "height": 1165,
+      "total_pixels": 1491200,
+      "basic_score": 0.8919234179057045
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query 'feng shui bagua symbol golden' and the prompt, depicting a clear and high-quality golden-colored octagonal Bagua symbol with a central Yin and Yang. The clarity is excellent, and there are no watermarks. The composition and lighting are professional.",
+      "file_name": "golden_feng_shui_bagua_yin_yang_symbol.jpg",
+      "caption": "A detailed, top-down photograph of a golden or brass octagonal Feng Shui Bagua symbol. The object features a central Yin and Yang symbol, surrounded by the eight trigrams (Bagua) and intricate Chinese characters, all clearly engraved. The metallic surface reflects light subtly, highlighting its texture, and the symbol is presented against a clean white background, emphasizing its traditional design.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "风水八卦图标，用于运势分析",
+    "image_info": {
+      "url": "https://healing-sounds.com/cdn/shop/files/a4ad2ff0-adda-4eef-aea9-cb6864dbba0c_7b3667aa-a902-4130-aae8-98459f97f0ee_1024x.jpg?v=1751100853",
+      "file_path": "/workspace/imgs/golden_feng_shui_bagua_yin_yang_symbol.jpg_37",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 52570,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.88386189559586
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly depicting a golden Feng Shui Bagua symbol with a Yin-Yang. The clarity is excellent, showcasing intricate details, and there are no watermarks. The overall composition and lighting are highly professional.",
+      "file_name": "golden_feng_shui_bagua_yin_yang_symbol.jpg",
+      "caption": "A close-up studio shot of a golden octagonal Feng Shui Bagua symbol, prominently featuring a classic Yin-Yang (Taijitu) design at its center. Surrounding the central Yin-Yang are the eight trigrams (Ba Gua) and traditional Chinese characters, all intricately embossed on the metallic surface. The object, likely made of brass or bronze, has a metallic sheen and is set against a plain black background, emphasizing its detail and form. This traditional Chinese artifact is commonly used in Feng Shui for energy balancing and fortune analysis.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "紫水晶原石图片，用于水晶展示",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71i8puCQeTL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/large_natural_purple_amethyst_crystal_geode_display.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 103731,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9148389078518386
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features a raw amethyst crystal with a vibrant purple color, presented clearly for display. The clarity is excellent, and there are no watermarks.",
+      "file_name": "large_natural_purple_amethyst_crystal_geode_display.jpg",
+      "caption": "A stunning, large natural amethyst crystal geode with vibrant purple facets, prominently displayed on a rustic round wooden slab. The rough edges of the amethyst show its natural formation, while the sparkling druzy crystals catch the light. In the softly blurred background, a window with horizontal blinds and a green leafy plant create a natural, inviting setting, perfect for showcasing the beauty of the crystal.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "紫水晶原石图片，用于水晶展示",
+    "image_info": {
+      "url": "https://cdn.shopify.com/s/files/1/2987/3832/files/12_59e19367-b833-4454-8b76-7e8d8a1d419d.jpg?v=1640709513",
+      "file_path": "/workspace/imgs/natural_raw_amethyst_crystals_purple_stone.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 73547,
+      "width": 800,
+      "height": 550,
+      "total_pixels": 440000,
+      "basic_score": 0.8363313207377824
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly displaying raw amethyst crystals. The clarity is excellent, with sharp focus on the crystals and appealing bokeh in the background. There are no watermarks, and the overall composition and quality are very high, making it ideal for crystal display.",
+      "file_name": "natural_raw_amethyst_crystals_purple_stone.jpeg",
+      "caption": "A close-up, high-detail photograph of several natural raw amethyst crystal points, showcasing their vibrant purple color and translucent facets. The crystals are illuminated to highlight their clarity and unique formations, with a soft, blurred background that emphasizes the beauty of the geological specimens. Ideal for display and educational purposes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "紫水晶原石图片，用于水晶展示",
+    "image_info": {
+      "url": "http://crystalmagic.com/cdn/shop/articles/Amethystblog1_9447be42-5fcf-4c4e-9013-dac1e190731b.jpg?v=1652531028",
+      "file_path": "/workspace/imgs/amethyst_crystal_raw_stone_purple_display.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 128247,
+      "width": 800,
+      "height": 1200,
+      "total_pixels": 960000,
+      "basic_score": 0.908221873253528
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 30.0,
+      "overall_score": 80.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly displaying amethyst crystals, including raw forms. It boasts excellent clarity and professional composition, making it highly suitable for crystal display purposes. However, the presence of a prominent website URL at the bottom significantly reduces the watermark score.",
+      "file_name": "amethyst_crystal_raw_stone_purple_display.jpg",
+      "caption": "A visually compelling collage showcasing amethyst crystals, featuring a prominent close-up of a raw amethyst geode cluster at the top, a polished heart-shaped amethyst stone on the right, and an informative text panel on a deep purple background on the left. The text describes amethyst as a 'divine stone of intuition and royalty,' highlighting its vibrant violet color and popularity among crystal enthusiasts. This detailed presentation is ideal for crystal display or educational purposes.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "紫水晶原石图片，用于水晶展示",
+    "image_info": {
+      "url": "https://www.buriedtreasuresaz.com/cdn/shop/files/8A424AA8-93AE-4979-8528-9D9BE8383B17.jpg?v=1713893941",
+      "file_path": "/workspace/imgs/purple_amethyst_raw_crystal_stone_display.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 169321,
+      "width": 1080,
+      "height": 1081,
+      "total_pixels": 1167480,
+      "basic_score": 0.9265283508195028
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to both the search query and prompt, clearly showcasing a purple amethyst raw stone. It has excellent clarity and focus on the crystal, with no watermarks. The composition is professional, highlighting the stone's beauty against a blurred, natural background, making it ideal for crystal display purposes.",
+      "file_name": "purple_amethyst_raw_crystal_stone_display.jpg",
+      "caption": "A close-up view of a hand gently holding a vibrant purple amethyst crystal cluster, highlighting its raw, unpolished form and countless intricate crystal points. The background is softly blurred, featuring a warm wooden surface and a subtle hint of another white crystal object, creating a natural and aesthetically pleasing display.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "神秘的紫色水晶疗愈背景图，用于网站首页横幅",
+    "image_info": {
+      "url": "https://i.pinimg.com/564x/1f/b7/ee/1fb7ee77488d62d794b184afea3984e5.jpg",
+      "file_path": "/workspace/imgs/mystical_purple_amethyst_healing_crystal_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 72295,
+      "width": 539,
+      "height": 794,
+      "total_pixels": 427966,
+      "basic_score": 0.8303459258523083
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. It features vibrant purple crystals, clearly conveying a mystical and healing background aesthetic. The clarity is excellent, showcasing the intricate details of the crystals without any blurring or pixelation. There are no watermarks. The composition and lighting are professional, making it highly suitable for a website homepage banner.",
+      "file_name": "mystical_purple_amethyst_healing_crystal_background.jpg",
+      "caption": "A close-up, full-frame macro shot of natural amethyst crystals, displaying a spectrum of rich purple and lavender hues. The intricate facets and rough textures of the gemstone pieces catch the light, creating a shimmering, ethereal, and mystical background pattern, ideal for themes of healing, spirituality, and inner peace.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "神秘的紫色水晶疗愈背景图，用于网站首页横幅",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/ce/ce/df/cecedf2b713e8e0b4a09c6afc2177177.jpg",
+      "file_path": "/workspace/imgs/purple_amethyst_crystal_healing_background.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 120487,
+      "width": 612,
+      "height": 900,
+      "total_pixels": 550800,
+      "basic_score": 0.8647677830025657
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting vibrant deep purple crystals that convey a mystical and healing aesthetic suitable for a background. The clarity is excellent, showcasing the intricate details and reflections of the crystal facets. There are no watermarks, contributing to its professional quality and versatility for use as a website banner.",
+      "file_name": "purple_amethyst_crystal_healing_background.jpg",
+      "caption": "A vibrant close-up photograph showcasing a rich cluster of deep purple amethyst crystals. The image highlights the intricate facets and reflective surfaces of the gemstones, with varying shades of royal purple and indigo creating a mystical and textured background, ideal for themes of healing, spirituality, or luxury.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]

@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  # 前端服务
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    container_name: pzyt-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    networks:
+      - pzyt-network
+
+  # 后端服务
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    container_name: pzyt-backend
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - FRONTEND_URL=http://localhost:3000
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend/src/database:/app/src/database
+      - ./backend/uploads:/app/uploads
+    networks:
+      - pzyt-network
+
+networks:
+  pzyt-network:
+    driver: bridge
